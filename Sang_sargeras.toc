@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: Sang de sargeras
+## Notes: Vous permets d'acheter plusieurs stacks et d'éviter de confirmer l'achat en clique droit (concernant les sangs de sargeras/sargerite primordial).
+## Version: 2.0
+
+Sang_sargeras.lua
